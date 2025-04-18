@@ -1,0 +1,7 @@
+&câ–â–â–â–â–â–â– &c&lregistering you agree with gdpr
+&câ–â–â–&fâ–&câ–â–â– &7gdpr: &fAvaloncs.net/gdpr
+&câ–â–â–&fâ–&câ–â–â– &c&l&nAUTHENTICATION
+&câ–â–â–&fâ–&câ–â–â– 
+&câ–â–â–â–â–â–â–&7 Login: &f/login <password>
+&câ–â–â–&fâ–&câ–â–â– &7Register: &f/register <password> <password>
+&câ–â–â–â–â–â–â–
